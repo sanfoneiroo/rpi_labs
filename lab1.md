@@ -48,7 +48,7 @@ Depois de descobrir o IP:
 
 ssh usuario@192.168.x.x
 
-![Acesso](img/acesso.jpeg)
+![Acesso](img/acesso.jpg)
 **//////IMG_ACESSO** 
 
 ## Script de reconhecimento do sistema
