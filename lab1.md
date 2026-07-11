@@ -167,7 +167,7 @@ sudo apt update
 sudo apt full-upgrade -y
 sudo reboot
 
-![Update](img/update.jpeg)
+![Update](img/update.jpg)
 **/////IMAGEM UPDATE**
 
 Depois reconecte via SSH.
@@ -236,7 +236,7 @@ Após a seleção, pressionar teclas no teclado exibirá os eventos detectados p
 
 Para encerrar o programa Ctrl ^ C
 
-![RaspberryPi 400](img/evtest.jpeg)
+![RaspberryPi 400](img/evtest.jpg)
 **////// IMG EVTEST**
 
 ## Desligar o RPI400
@@ -247,7 +247,7 @@ A forma mais segura de desligar o Raspberry Pi 400 (principalmente rodando Raspb
 
 Após a conexão SSH cair, aguarde uns 10–20 segundos. O Raspberry estará parado e você pode remover a fonte.
 
-![Desligar](img/desligar.jpeg)
+![Desligar](img/desligar.jpg)
 **/////IMAGEM DESLIGAR**
 
 ###### 10/07/2026
@@ -284,4 +284,4 @@ pinctrl set 17 ip
 
 Os comandos exibem e modificam o estado dos GPIOs em tempo real, sendo úteis para validar conexões e testar periféricos durante o desenvolvimento.
 
-**////// IMG PINCTRL**
+###### 11/07/2026
